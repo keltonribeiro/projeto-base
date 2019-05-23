@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+/home/kelton/globalweb-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3711151401.index
+/projetobase/src/main/resources
+/home/kelton/globalweb-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3010118859.index
+/SpringRestfulWebServicesCRUDExample/src/main/java

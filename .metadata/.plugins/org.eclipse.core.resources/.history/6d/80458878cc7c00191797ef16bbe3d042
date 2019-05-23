@@ -1,0 +1,13 @@
+package br.com.globalweb.service;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+
+import br.com.globalweb.domain.Usuario;
+
+
+public class CountryService {
+
+
+}

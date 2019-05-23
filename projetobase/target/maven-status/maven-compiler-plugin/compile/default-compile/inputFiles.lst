@@ -1,0 +1,7 @@
+/home/kelton/globalweb-workspace/projetobase/src/main/java/br/com/globalweb/repository/UsuarioRepository.java
+/home/kelton/globalweb-workspace/projetobase/src/main/java/br/com/globalweb/service/UsuarioService.java
+/home/kelton/globalweb-workspace/projetobase/src/main/java/br/com/globalweb/controller/UsuarioController.java
+/home/kelton/globalweb-workspace/projetobase/src/main/java/br/com/globalweb/repository/UsuarioRepositoryImpl.java
+/home/kelton/globalweb-workspace/projetobase/src/main/java/br/com/globalweb/service/UsuarioServiceImpl.java
+/home/kelton/globalweb-workspace/projetobase/src/main/java/br/com/globalweb/domain/Usuario.java
+/home/kelton/globalweb-workspace/projetobase/src/main/java/br/com/globalweb/utils/CustomHibernateDaoSupport.java

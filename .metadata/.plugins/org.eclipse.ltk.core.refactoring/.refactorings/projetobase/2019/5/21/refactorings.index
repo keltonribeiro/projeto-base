@@ -1,0 +1,9 @@
+1558554910348	Delete element
+1558555217555	Rename type 'Country'
+1558555335318	Rename type 'CountryService'
+1558555441590	Rename method 'getCountryById'
+1558555507333	Rename field 'countryService'
+1558556286941	Rename type 'CountryController'
+1558561529164	Rename type 'UsuarioService'
+1558562204036	Rename type 'UsuarioRepository'
+1558562807833	Delete element
